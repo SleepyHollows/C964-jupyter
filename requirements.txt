@@ -14,4 +14,4 @@ jupyter-core==4.10.0
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==1.1.0
 notebook==6.4.11
-numpy==1.22.3
+numpy==1.21.6
