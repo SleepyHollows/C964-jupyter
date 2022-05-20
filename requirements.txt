@@ -41,7 +41,6 @@ PyYAML==6.0
 regex==2022.4.24
 rend==6.4.2
 smart-open==5.2.1
-spacy==3.3.0
 spacy-legacy==3.0.9
 spacy-loggers==1.0.2
 srsly==2.4.3
@@ -54,4 +53,8 @@ wasabi==0.9.1
 webencodings==0.5.1
 widgetsnbextension==3.6.0
 wordcloud==1.8.1
+<<<<<<< HEAD
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl
+=======
+spacy==3.3.0
+>>>>>>> fdcc9082e1747981bb6e1f211aec4ba299171cc2
