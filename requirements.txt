@@ -54,4 +54,3 @@ webencodings==0.5.1
 widgetsnbextension==3.6.0
 wordcloud==1.8.1
 spacy==3.3.0
-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
