@@ -54,4 +54,7 @@ wasabi==0.9.1
 webencodings==0.5.1
 widgetsnbextension==3.6.0
 wordcloud==1.8.1
+<<<<<<< HEAD
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl
+=======
+>>>>>>> 7e76e3e6e8a6806f76174b0fcf148c1185bb26e6
